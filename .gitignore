@@ -161,6 +161,9 @@ cython_debug/
 
 notebooks/*
 !notebooks/*.ipynb
+presentation/*
+!presentation/*.ipynb
+!presentation/*.html
 
 .DS_Store
 
